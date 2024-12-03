@@ -164,7 +164,8 @@ export const testimonials = [
       "LinkedIn TOP Voice | Contractor | IT Talent Acquisition | CV Writer | Career Coach | Founder of SwiftCareer",
   },
   {
-    quote: "Placeholder",
+    quote:
+      "I greatly appreciated the collaboration with Ramon. His professionalism, combined with an always open and friendly attitude, made the whole experience a pleasant and productive one. Ramon demonstrated a deep understanding of technical concepts and was always willing to share his knowledge. In addition, his ability to collaborate effectively and come up with quick solutions was a real help to the team.",
     name: "Melissa Ionela",
     title: "Programming Colleague",
   },
@@ -192,7 +193,7 @@ export const companies = [
     id: 3,
     name: "sneakersupply",
     img: "/sneakersupply.png",
-    nameImg: "Sneaker Supply",
+    nameImg: "Snkr Supply",
   },
   {
     id: 5,
@@ -205,29 +206,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Full Stack Developer Intern at GoIT",
+    desc: "I developed responsive web applications using React, TypeScript, JavaScript, Node.js, NoSQL, Express, Redux, Git and many many more. showcasing my ability to create functional and attractive websites independently.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Full Stack Developer & Sales Manager at Sneaker Supply",
+    desc: "I develop JavaScript bots for my company to streamline workflows and enhance productivity. These bots automate repetitive tasks, reduce errors, and improve efficiency, making it easier for our team to focus on more strategic work.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Full-stack Developer & Retail Director at Self Employed",
+    desc: "I maintained 2 websites using JavaScript, Html, CSS and Ruby for Shopify. I managed a Shopify website, focusing on theme customization, plugin development, and seamless e-commerce operations.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Vast personal projects Portfolio",
+    desc: "Developed and maintained applications using modern full-stack technologies such as TypeScript, React.js, Node.js, NoSQL, Redux.js, Express, Tailwind, Next.js and more.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -236,14 +237,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    link: "https://github.com/Woolfy25",
     img: "/git.svg",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
+    link: "https://www.linkedin.com/in/ramon-ciutre/",
     img: "/link.svg",
   },
 ];
