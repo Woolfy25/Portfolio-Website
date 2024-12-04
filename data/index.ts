@@ -147,12 +147,14 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote: "Placeholder",
+    quote:
+      "Ramon was an invaluable asset to the team at Sneaker Supply. His programming expertise and proactive problem-solving approach consistently elevated our projects. Always collaborative and eager to help, Ramon contributed innovative solutions that made a real impact on our team's efficiency and success.",
     name: "Alexandru Petcoviciu",
     title: "Director of Sneaker Supply",
   },
   {
-    quote: "Placeholder",
+    quote:
+      "As a mentor, I appreciate your dedication and progress. You have excellently learned TypeScript, React.js, Node.js and so many more, managing to complete complex applications. You are a talented and promising student! One of the best and most ambitious students I've had, congratulations Ramon!",
     name: "Iani Misoc",
     title: "GoIT Mentor",
   },
@@ -170,7 +172,8 @@ export const testimonials = [
     title: "Programming Colleague",
   },
   {
-    quote: "Placeholder",
+    quote:
+      "Working with Ramon was a great experience. His friendly and approachable nature, combined with deep technical expertise, made him a valuable team member. He was always ready to share his knowledge and contribute quick, effective solutions, which greatly supported our team’s success.",
     name: "Levi Popescu",
     title: "Programming Colleague",
   },
