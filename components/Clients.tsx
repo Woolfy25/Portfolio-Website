@@ -34,12 +34,6 @@ const Clients = () => {
                 <p className="md:text-base text-xs text-white font-semibold uppercase">
                   {company.nameImg}
                 </p>
-                {/* <img
-                  src={company.nameImg}
-                  alt={company.name}
-                  width={company.id === 4 || company.id === 5 ? 100 : 150}
-                  className="md:w-24 w-20"
-                /> */}
               </div>
             </React.Fragment>
           ))}
